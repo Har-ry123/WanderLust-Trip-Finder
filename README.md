@@ -1,2 +1,1 @@
-# WanderLust-Trip-Finder
-Add Trip
+# WanderLust# WanderLust-Trip-Finder
